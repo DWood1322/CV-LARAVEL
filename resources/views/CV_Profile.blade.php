@@ -55,9 +55,7 @@
         <tr>
             <td></td>
             <td></td>
-            <ul>
-                <li>HTML</li>
-            </ul>
+           
         </tr>
     
      <tr>
